@@ -1,6 +1,6 @@
 public class lesson1 implements components{
     public String l1;
-    String duration;
+    String duration1;
     public lesson1(String l)
     {
         l1=l;
