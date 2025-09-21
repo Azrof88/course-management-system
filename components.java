@@ -1,0 +1,4 @@
+interface components {
+    void showDetails();
+    
+}
